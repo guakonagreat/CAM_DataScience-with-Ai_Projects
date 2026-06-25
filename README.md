@@ -1,2 +1,2 @@
-# CAM_DataScience-with-Ai_Projects
-Cambridge Uni_Data Science with ML&amp; Ai_Projects
+# University of Cambridge: Data Science with ML and Ai projects
+University of Cambridge: Data Science with ML and Ai projects
